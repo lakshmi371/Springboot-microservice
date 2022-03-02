@@ -1,4 +1,4 @@
-# SpringBoot-Microservice
+# SpringBoot-microservice
 
 ## Problem Statement
 
